@@ -1,0 +1,9 @@
+C:\Users\mered\source\repos\Trabalho2\Trabalho2\bin\Debug\Trabalho2.exe.config
+C:\Users\mered\source\repos\Trabalho2\Trabalho2\bin\Debug\Trabalho2.exe
+C:\Users\mered\source\repos\Trabalho2\Trabalho2\bin\Debug\Trabalho2.pdb
+C:\Users\mered\source\repos\Trabalho2\Trabalho2\obj\Debug\Trabalho2.csprojAssemblyReference.cache
+C:\Users\mered\source\repos\Trabalho2\Trabalho2\obj\Debug\Trabalho2.Form1.resources
+C:\Users\mered\source\repos\Trabalho2\Trabalho2\obj\Debug\Trabalho2.Properties.Resources.resources
+C:\Users\mered\source\repos\Trabalho2\Trabalho2\obj\Debug\Trabalho2.csproj.GenerateResource.cache
+C:\Users\mered\source\repos\Trabalho2\Trabalho2\obj\Debug\Trabalho2.exe
+C:\Users\mered\source\repos\Trabalho2\Trabalho2\obj\Debug\Trabalho2.pdb
