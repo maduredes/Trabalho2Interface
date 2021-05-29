@@ -52,6 +52,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Models\AnalysisError.cs" />
+    <Compile Include="Models\Constants.cs" />
+    <Compile Include="Models\LexicalError.cs" />
+    <Compile Include="Models\Lexico.cs" />
+    <Compile Include="Models\ScannerConstants.cs" />
+    <Compile Include="Models\Token.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
